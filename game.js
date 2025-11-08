@@ -1,1 +1,1 @@
-window.open('https://www.google.com', '_blank', 'noopener');
+window.location.href = 'https://www.google.com';
